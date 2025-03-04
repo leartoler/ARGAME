@@ -16,9 +16,13 @@ EditorBuildSettings:
       type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ab08b8cfb9296b44f84a41874a47daa0,
       type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: f407ca0fdd09efc40bc231bd58cff086, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
       guid: a1cb31ab8b05b6348a9fa2932c9afd68, type: 2}
     com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 3818f261e82529941b20791c930486ce,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3d0e6739ca4c94943a55a54023fb39d7,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 110afbbe1263ebb43b157f15746d1a15,
       type: 2}
